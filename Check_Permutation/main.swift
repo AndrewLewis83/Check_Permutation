@@ -8,5 +8,10 @@
 
 import Foundation
 
+print("""
+This program will check to see if two strings provided by the user are permutations of each other.
+
+""")
+
 let CP = Check_Permutation()
 
