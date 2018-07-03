@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Check_Permutation.swift
 //  Check_Permutation
 //
 //  Created by Andrew Lewis on 7/3/18.
@@ -8,5 +8,10 @@
 
 import Foundation
 
-let CP = Check_Permutation()
-
+class Check_Permutation{
+    
+    let inputOutput = IO()
+    
+    
+    
+}
