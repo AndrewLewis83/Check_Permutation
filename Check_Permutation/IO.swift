@@ -24,4 +24,3 @@ class IO {
         return strData.trimmingCharacters(in: CharacterSet.newlines)
     }
 }
-}

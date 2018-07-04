@@ -15,3 +15,5 @@ This program will check to see if two strings provided by the user are permutati
 
 let CP = Check_Permutation()
 
+CP.startingPoint()
+
